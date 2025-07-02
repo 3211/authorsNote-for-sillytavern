@@ -3,7 +3,7 @@
   "id": "authorsNote",
   "entry": "plugin.js",
   "version": "1.0.0",
-  "description": "Injects customizable Author's Notes into the system, user, or assistant prompt.",
-  "author": "you :)",
+  "description": "Injects customizable Author's Notes into system/user/assistant prompts.",
+  "author": "yourname",
   "enabled": true
 }
